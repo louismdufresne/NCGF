@@ -1,0 +1,2665 @@
+fileFormatVersion: 2
+guid: 568f18ac50bd0974d93d96d3ebb94cf8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6545264345312986850
+    second: UI_Letters_A
+  - first:
+      213: 1665631672884884554
+    second: UI_Letters_a
+  - first:
+      213: 3678796555024606907
+    second: UI_Letters_B
+  - first:
+      213: -2264264869737352981
+    second: UI_Letters_C
+  - first:
+      213: 2948585398732104737
+    second: UI_Letters_D
+  - first:
+      213: -8834706310499556206
+    second: UI_Letters_E
+  - first:
+      213: -3864478096876774268
+    second: UI_Letters_F
+  - first:
+      213: 2647445248898312974
+    second: UI_Letters_G
+  - first:
+      213: -8224345767685156866
+    second: UI_Letters_H
+  - first:
+      213: -6365115315633142155
+    second: UI_Letters_I
+  - first:
+      213: 1132730259766334052
+    second: UI_Letters_J
+  - first:
+      213: -6653575697268526644
+    second: UI_Letters_K
+  - first:
+      213: -8653362021247093252
+    second: UI_Letters_L
+  - first:
+      213: -368047778546762286
+    second: UI_Letters_M
+  - first:
+      213: -9035175187488970120
+    second: UI_Letters_N
+  - first:
+      213: -339214948685010725
+    second: UI_Letters_O
+  - first:
+      213: 5748872466816943696
+    second: UI_Letters_P
+  - first:
+      213: 8874519824179519950
+    second: UI_Letters_Q
+  - first:
+      213: 294616502073687633
+    second: UI_Letters_R
+  - first:
+      213: 9005533697261909057
+    second: UI_Letters_S
+  - first:
+      213: -5957103363380751928
+    second: UI_Letters_T
+  - first:
+      213: -1516740006664162023
+    second: UI_Letters_U
+  - first:
+      213: 7830863037894795931
+    second: UI_Letters_V
+  - first:
+      213: 7073705977234600383
+    second: UI_Letters_W
+  - first:
+      213: -688631393848301683
+    second: UI_Letters_X
+  - first:
+      213: -5021606264300928268
+    second: UI_Letters_Y
+  - first:
+      213: 3678768998502089068
+    second: UI_Letters_Z
+  - first:
+      213: -1740766214957414732
+    second: UI_Letters_b
+  - first:
+      213: 1869348310781350963
+    second: UI_Letters_c
+  - first:
+      213: -2980991271243453273
+    second: UI_Letters_d
+  - first:
+      213: -5174951316897345418
+    second: UI_Letters_e
+  - first:
+      213: -6189407262962428496
+    second: UI_Letters_f
+  - first:
+      213: -8382116939707442678
+    second: UI_Letters_g
+  - first:
+      213: 8299901682714295362
+    second: UI_Letters_h
+  - first:
+      213: 5373213744045173907
+    second: UI_Letters_semicolon
+  - first:
+      213: 7165485657242312372
+    second: UI_Letters_parenleft
+  - first:
+      213: 6137090446068779347
+    second: UI_Letters_parenright
+  - first:
+      213: -7635107277336991700
+    second: UI_Letters_i
+  - first:
+      213: 6337950748694087870
+    second: UI_Letters_j
+  - first:
+      213: -8241692113804572001
+    second: UI_Letters_k
+  - first:
+      213: -1738020103448765375
+    second: UI_Letters_l
+  - first:
+      213: -5337535339890921008
+    second: UI_Letters_m
+  - first:
+      213: 7012615857623113340
+    second: UI_Letters_n
+  - first:
+      213: 6905892929153500367
+    second: UI_Letters_o
+  - first:
+      213: -2976957568661554960
+    second: UI_Letters_p
+  - first:
+      213: 9179620435401039419
+    second: UI_Letters_q
+  - first:
+      213: -149426079917126182
+    second: UI_Letters_r
+  - first:
+      213: 3756737607544589273
+    second: UI_Letters_s
+  - first:
+      213: 3995488941477522898
+    second: UI_Letters_t
+  - first:
+      213: 8525287752392892949
+    second: UI_Letters_u
+  - first:
+      213: -2013149549590219365
+    second: UI_Letters_v
+  - first:
+      213: -4718253168773654947
+    second: UI_Letters_w
+  - first:
+      213: -5563960047224893515
+    second: UI_Letters_x
+  - first:
+      213: -1835149812481487325
+    second: UI_Letters_y
+  - first:
+      213: 8218096946791706857
+    second: UI_Letters_z
+  - first:
+      213: 468868780076124282
+    second: UI_Letters_colon
+  - first:
+      213: -7398685852943167515
+    second: UI_Letters_period
+  - first:
+      213: 5892093539206197422
+    second: UI_Letters_exclam
+  - first:
+      213: -8113351005052544920
+    second: UI_Letters_singlequote
+  - first:
+      213: 2654491668749166246
+    second: UI_Letters_doublequote
+  - first:
+      213: 7828030478357968326
+    second: UI_Letters_dash
+  - first:
+      213: -8507589745226648232
+    second: UI_Letters_underscore
+  - first:
+      213: -766262000012747408
+    second: UI_Letters_question
+  - first:
+      213: -392410094350531631
+    second: UI_Letters_comma
+  - first:
+      213: -18098140372370553
+    second: UI_Letters_backslash
+  - first:
+      213: -2949006527241715529
+    second: UI_Letters_backslash
+  - first:
+      213: 3454403905459134861
+    second: UI_Letters_bracketleft
+  - first:
+      213: -2937375503750087582
+    second: UI_Letters_bracketright
+  - first:
+      213: -6465970190017020436
+    second: UI_Letters_curlyleft
+  - first:
+      213: 8519782568639586135
+    second: UI_Letters_curlyright
+  - first:
+      213: -5111628271357632634
+    second: UI_Letters_plus
+  - first:
+      213: 3363983836217065897
+    second: UI_Letters_asterisk
+  - first:
+      213: 3696184517958119592
+    second: UI_Letters_equals
+  - first:
+      213: -5911097710183041109
+    second: UI_Letters_1
+  - first:
+      213: -8015270926204757435
+    second: UI_Letters_2
+  - first:
+      213: -5466775315788973315
+    second: UI_Letters_3
+  - first:
+      213: 4028018844814268159
+    second: UI_Letters_4
+  - first:
+      213: 3682816597961151891
+    second: UI_Letters_5
+  - first:
+      213: -4386801538422992949
+    second: UI_Letters_6
+  - first:
+      213: -323892789413455498
+    second: UI_Letters_7
+  - first:
+      213: 850172148208124082
+    second: UI_Letters_8
+  - first:
+      213: 6403531953657258853
+    second: UI_Letters_9
+  - first:
+      213: -3189092904659414164
+    second: UI_Letters_0
+  - first:
+      213: -4155271310720227735
+    second: UI_Letters_undefined
+  - first:
+      213: -2039339663344888473
+    second: UI_Letters_space
+  - first:
+      213: -6288607708062676166
+    second: UI_Letters_at
+  - first:
+      213: -4861492175882318690
+    second: UI_Letters_hash
+  - first:
+      213: 8302261981009938905
+    second: UI_Letters_dollar
+  - first:
+      213: 4081100885171617724
+    second: UI_Letters_percent
+  - first:
+      213: 1395470288379758209
+    second: UI_Letters_caret
+  - first:
+      213: 859323902716242460
+    second: UI_Letters_ampersand
+  - first:
+      213: 5553305704239030209
+    second: UI_Letters_arrowLeft
+  - first:
+      213: -7185042222832796859
+    second: UI_Letters_arrowRight
+  - first:
+      213: 3494190631582293561
+    second: UI_Letters_caretLeft
+  - first:
+      213: 7930203267201848514
+    second: UI_Letters_caretRight
+  - first:
+      213: -1642198742395272435
+    second: UI_Letters_underline
+  - first:
+      213: 9178700808822026026
+    second: UI_Letters_verticalBar
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: UI_Letters_A
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 500
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e19f69891cc8a25a0800000000000000
+      internalID: -6545264345312986850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Letters_a
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 488
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4471fc7e238d1710800000000000000
+      internalID: 1665631672884884554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Letters_B
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 500
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb62c27c9f5bd0330800000000000000
+      internalID: 3678796555024606907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Letters_C
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 500
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be0b8e9f817b390e0800000000000000
+      internalID: -2264264869737352981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Letters_D
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 500
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 124a4514cca7be820800000000000000
+      internalID: 2948585398732104737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Letters_E
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 500
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 294a5cb3b61d46580800000000000000
+      internalID: -8834706310499556206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Letters_F
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 500
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48cd16155ad9e5ac0800000000000000
+      internalID: -3864478096876774268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Letters_G
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 500
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0b21e65d6d9db420800000000000000
+      internalID: 2647445248898312974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Letters_H
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 500
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eff832749114ddd80800000000000000
+      internalID: -8224345767685156866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Letters_I
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 500
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 576c94128519aa7a0800000000000000
+      internalID: -6365115315633142155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Letters_J
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 500
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46255b77b2448bf00800000000000000
+      internalID: 1132730259766334052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Letters_K
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 500
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc1332ec720c9a3a0800000000000000
+      internalID: -6653575697268526644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Letters_L
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 500
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf5f5b2d61519e780800000000000000
+      internalID: -8653362021247093252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Letters_M
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 500
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dd3953de7e64eaf0800000000000000
+      internalID: -368047778546762286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Letters_N
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 500
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87aeb42990c9c9280800000000000000
+      internalID: -9035175187488970120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Letters_O
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 500
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd8a0292dcdda4bf0800000000000000
+      internalID: -339214948685010725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Letters_P
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 500
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 056c5abbc0918cf40800000000000000
+      internalID: 5748872466816943696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Letters_Q
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 500
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec1e168c2c0a82b70800000000000000
+      internalID: 8874519824179519950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Letters_R
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 500
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15ef11fc520b61400800000000000000
+      internalID: 294616502073687633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Letters_S
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 500
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1443b1e2f251afc70800000000000000
+      internalID: 9005533697261909057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Letters_T
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 500
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c1d7679d0e145da0800000000000000
+      internalID: -5957103363380751928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Letters_U
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 500
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 915b82efff473fae0800000000000000
+      internalID: -1516740006664162023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Letters_V
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 500
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b92a47a7170dcac60800000000000000
+      internalID: 7830863037894795931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Letters_W
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 500
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb130a2bb1ada2260800000000000000
+      internalID: 7073705977234600383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Letters_X
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 500
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d876d74556d7176f0800000000000000
+      internalID: -688631393848301683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Letters_Y
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 500
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f2877e45bbaf4ab0800000000000000
+      internalID: -5021606264300928268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Letters_Z
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 500
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c61cf66c9ec9d0330800000000000000
+      internalID: 3678768998502089068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Letters_b
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 488
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b64678b95e87d7e0800000000000000
+      internalID: -1740766214957414732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Letters_c
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 488
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3345999626241f910800000000000000
+      internalID: 1869348310781350963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Letters_d
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 488
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ac6ef69b3461a6d0800000000000000
+      internalID: -2980991271243453273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Letters_e
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 488
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 670d4620231ee28b0800000000000000
+      internalID: -5174951316897345418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Letters_f
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 488
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b5d6e023eeca1aa0800000000000000
+      internalID: -6189407262962428496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Letters_g
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 488
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0a14febd0dbcab80800000000000000
+      internalID: -8382116939707442678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Letters_h
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 488
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24c3adc0b9c2f2370800000000000000
+      internalID: 8299901682714295362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Letters_semicolon
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 476
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39c2f048e6d719a40800000000000000
+      internalID: 5373213744045173907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Letters_parenleft
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 476
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4be951bad3be07360800000000000000
+      internalID: 7165485657242312372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Letters_parenright
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 476
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3598f58be335b2550800000000000000
+      internalID: 6137090446068779347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Letters_i
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 488
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2824504266aa0690800000000000000
+      internalID: -7635107277336991700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Letters_j
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 488
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb805d340ace4f750800000000000000
+      internalID: 6337950748694087870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Letters_k
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 488
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9a4a8850b0af9d80800000000000000
+      internalID: -8241692113804572001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Letters_l
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 488
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14cd271acef41e7e0800000000000000
+      internalID: -1738020103448765375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Letters_m
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 488
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d135b943e34de5b0800000000000000
+      internalID: -5337535339890921008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Letters_n
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 488
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7e95e3d7f0d15160800000000000000
+      internalID: 7012615857623113340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Letters_o
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 488
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc48313b709a6df50800000000000000
+      internalID: 6905892929153500367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Letters_p
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 488
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f874882dd8bfa6d0800000000000000
+      internalID: -2976957568661554960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Letters_q
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 488
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3edef87620946f70800000000000000
+      internalID: 9179620435401039419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Letters_r
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 488
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: add4c52a5c12dedf0800000000000000
+      internalID: -149426079917126182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Letters_s
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 488
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dbcb0433fc922430800000000000000
+      internalID: 3756737607544589273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Letters_t
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 488
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dde4c4f504d27730800000000000000
+      internalID: 3995488941477522898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Letters_u
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 488
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 512ed59ba08ef4670800000000000000
+      internalID: 8525287752392892949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Letters_v
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 488
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b95ffe8962bdf04e0800000000000000
+      internalID: -2013149549590219365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Letters_w
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 488
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5692eacdb5658eb0800000000000000
+      internalID: -4718253168773654947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Letters_x
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 488
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bfc1b0f0d7d8c2b0800000000000000
+      internalID: -5563960047224893515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Letters_y
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 488
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32e8a65f7fc3886e0800000000000000
+      internalID: -1835149812481487325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Letters_z
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 488
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e0fd3bb1ab8c0270800000000000000
+      internalID: 8218096946791706857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Letters_colon
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 476
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7845badba1c18600800000000000000
+      internalID: 468868780076124282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Letters_period
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 476
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ef4d9aaa66925990800000000000000
+      internalID: -7398685852943167515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Letters_exclam
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 476
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea072c33bdbe4c150800000000000000
+      internalID: 5892093539206197422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Letters_singlequote
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 476
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 868d8cd4f36976f80800000000000000
+      internalID: -8113351005052544920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Letters_doublequote
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 476
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a6270fcb16a6d420800000000000000
+      internalID: 2654491668749166246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Letters_dash
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 476
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c53571de30c2ac60800000000000000
+      internalID: 7828030478357968326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Letters_underscore
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 476
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 855720da338fee980800000000000000
+      internalID: -8507589745226648232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Letters_question
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 476
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07d1c5455c0bd55f0800000000000000
+      internalID: -766262000012747408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Letters_comma
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 476
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d385f72911ed8af0800000000000000
+      internalID: -392410094350531631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Letters_forwardslash
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 476
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78b720456d3bfbff0800000000000000
+      internalID: 7796713230275726518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Letters_backslash
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 476
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b0037f10360317d0800000000000000
+      internalID: -18098140372370553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Letters_bracketleft
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 476
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d812d9fbc0280ff20800000000000000
+      internalID: 3454403905459134861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Letters_bracketright
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 476
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26cba0fca885c37d0800000000000000
+      internalID: -2937375503750087582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Letters_curlyleft
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 476
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ced35cfce524446a0800000000000000
+      internalID: -6465970190017020436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Letters_curlyright
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 476
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75fd35f3b195c3670800000000000000
+      internalID: 8519782568639586135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Letters_plus
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 476
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68f52e57b29df09b0800000000000000
+      internalID: -5111628271357632634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Letters_asterisk
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 476
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a1cfd3d9754fae20800000000000000
+      internalID: 3363983836217065897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Letters_equals
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 476
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a031316c3c7b4330800000000000000
+      internalID: 3696184517958119592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Letters_1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 464
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba73aef63ff87fda0800000000000000
+      internalID: -5911097710183041109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Letters_2
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 464
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54a9c013f8904c090800000000000000
+      internalID: -8015270926204757435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Letters_3
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 464
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfa368380dc1224b0800000000000000
+      internalID: -5466775315788973315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Letters_4
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 464
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff6dbb94cc566e730800000000000000
+      internalID: 4028018844814268159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Letters_5
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 464
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3951366fe2efb1330800000000000000
+      internalID: 3682816597961151891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Letters_6
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 464
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcf092a3e33fe13c0800000000000000
+      internalID: -4386801538422992949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Letters_7
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 464
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67953bd593d418bf0800000000000000
+      internalID: -323892789413455498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Letters_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 464
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b040eb701b6ccb00800000000000000
+      internalID: 850172148208124082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Letters_9
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 464
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 563aa9d626aedd850800000000000000
+      internalID: 6403531953657258853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Letters_0
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 464
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c639e0656e01eb3d0800000000000000
+      internalID: -3189092904659414164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Letters_undefined
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 464
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 966262b22c28556c0800000000000000
+      internalID: -4155271310720227735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Letters_space
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 464
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76596fd816fc2b3e0800000000000000
+      internalID: -2039339663344888473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Letters_at
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 476
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3b0425ab906ab8a0800000000000000
+      internalID: -6288607708062676166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Letters_hash
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 476
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9c81329f92888cb0800000000000000
+      internalID: -4861492175882318690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Letters_dollar
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 476
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d90452d84f873370800000000000000
+      internalID: 8302261981009938905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Letters_percent
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 476
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbfbf29e1abf2a830800000000000000
+      internalID: 4081100885171617724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Letters_caret
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 476
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 186cc7175d4bd5310800000000000000
+      internalID: 1395470288379758209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Letters_ampersand
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 476
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1a6760698eeceb00800000000000000
+      internalID: 859323902716242460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Letters_arrowLeft
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 464
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cf51568d1e411d40800000000000000
+      internalID: 5553305704239030209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Letters_arrowRight
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 464
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54b3ed39a2a994c90800000000000000
+      internalID: -7185042222832796859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Letters_caretLeft
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 464
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93ed5fccddbdd7030800000000000000
+      internalID: 3494190631582293561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Letters_caretRight
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 464
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c455320bddbd0e60800000000000000
+      internalID: 7930203267201848514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Letters_underline
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 500
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d03cfecc1fcb539e0800000000000000
+      internalID: -1642198742395272435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Letters_verticalBar
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 476
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2f6d6931cb416f70800000000000000
+      internalID: 9178700808822026026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      UI_Letters_0: -3189092904659414164
+      UI_Letters_1: -5911097710183041109
+      UI_Letters_2: -8015270926204757435
+      UI_Letters_3: -5466775315788973315
+      UI_Letters_4: 4028018844814268159
+      UI_Letters_5: 3682816597961151891
+      UI_Letters_6: -4386801538422992949
+      UI_Letters_7: -323892789413455498
+      UI_Letters_8: 850172148208124082
+      UI_Letters_9: 6403531953657258853
+      UI_Letters_A: -6545264345312986850
+      UI_Letters_B: 3678796555024606907
+      UI_Letters_C: -2264264869737352981
+      UI_Letters_D: 2948585398732104737
+      UI_Letters_E: -8834706310499556206
+      UI_Letters_F: -3864478096876774268
+      UI_Letters_G: 2647445248898312974
+      UI_Letters_H: -8224345767685156866
+      UI_Letters_I: -6365115315633142155
+      UI_Letters_J: 1132730259766334052
+      UI_Letters_K: -6653575697268526644
+      UI_Letters_L: -8653362021247093252
+      UI_Letters_M: -368047778546762286
+      UI_Letters_N: -9035175187488970120
+      UI_Letters_O: -339214948685010725
+      UI_Letters_P: 5748872466816943696
+      UI_Letters_Q: 8874519824179519950
+      UI_Letters_R: 294616502073687633
+      UI_Letters_S: 9005533697261909057
+      UI_Letters_T: -5957103363380751928
+      UI_Letters_U: -1516740006664162023
+      UI_Letters_V: 7830863037894795931
+      UI_Letters_W: 7073705977234600383
+      UI_Letters_X: -688631393848301683
+      UI_Letters_Y: -5021606264300928268
+      UI_Letters_Z: 3678768998502089068
+      UI_Letters_a: 1665631672884884554
+      UI_Letters_ampersand: 859323902716242460
+      UI_Letters_arrowLeft: 5553305704239030209
+      UI_Letters_arrowRight: -7185042222832796859
+      UI_Letters_asterisk: 3363983836217065897
+      UI_Letters_at: -6288607708062676166
+      UI_Letters_b: -1740766214957414732
+      UI_Letters_backslash: -18098140372370553
+      UI_Letters_bracketleft: 3454403905459134861
+      UI_Letters_bracketright: -2937375503750087582
+      UI_Letters_c: 1869348310781350963
+      UI_Letters_caret: 1395470288379758209
+      UI_Letters_caretLeft: 3494190631582293561
+      UI_Letters_caretRight: 7930203267201848514
+      UI_Letters_colon: 468868780076124282
+      UI_Letters_comma: -392410094350531631
+      UI_Letters_curlyleft: -6465970190017020436
+      UI_Letters_curlyright: 8519782568639586135
+      UI_Letters_d: -2980991271243453273
+      UI_Letters_dash: 7828030478357968326
+      UI_Letters_dollar: 8302261981009938905
+      UI_Letters_doublequote: 2654491668749166246
+      UI_Letters_e: -5174951316897345418
+      UI_Letters_equals: 3696184517958119592
+      UI_Letters_exclam: 5892093539206197422
+      UI_Letters_f: -6189407262962428496
+      UI_Letters_forwardslash: 7796713230275726518
+      UI_Letters_g: -8382116939707442678
+      UI_Letters_h: 8299901682714295362
+      UI_Letters_hash: -4861492175882318690
+      UI_Letters_i: -7635107277336991700
+      UI_Letters_j: 6337950748694087870
+      UI_Letters_k: -8241692113804572001
+      UI_Letters_l: -1738020103448765375
+      UI_Letters_m: -5337535339890921008
+      UI_Letters_n: 7012615857623113340
+      UI_Letters_o: 6905892929153500367
+      UI_Letters_p: -2976957568661554960
+      UI_Letters_parenleft: 7165485657242312372
+      UI_Letters_parenright: 6137090446068779347
+      UI_Letters_percent: 4081100885171617724
+      UI_Letters_period: -7398685852943167515
+      UI_Letters_plus: -5111628271357632634
+      UI_Letters_q: 9179620435401039419
+      UI_Letters_question: -766262000012747408
+      UI_Letters_r: -149426079917126182
+      UI_Letters_s: 3756737607544589273
+      UI_Letters_semicolon: 5373213744045173907
+      UI_Letters_singlequote: -8113351005052544920
+      UI_Letters_space: -2039339663344888473
+      UI_Letters_t: 3995488941477522898
+      UI_Letters_u: 8525287752392892949
+      UI_Letters_undefined: -4155271310720227735
+      UI_Letters_underline: -1642198742395272435
+      UI_Letters_underscore: -8507589745226648232
+      UI_Letters_v: -2013149549590219365
+      UI_Letters_verticalBar: 9178700808822026026
+      UI_Letters_w: -4718253168773654947
+      UI_Letters_x: -5563960047224893515
+      UI_Letters_y: -1835149812481487325
+      UI_Letters_z: 8218096946791706857
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
