@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1255053935596049980
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1458194280906548948}
+  - component: {fileID: -3211528992544967946}
+  m_Layer: 0
+  m_Name: Dialogue Box
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1458194280906548948
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1255053935596049980}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &-3211528992544967946
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1255053935596049980}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 956c8442fd3d9864aad9bbcb56f95224, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _textBoundingBox: {fileID: 0}
+  _boxBGAnim: {fileID: 0}
+  _characterAnim: {fileID: 0}
+  _textBox: {fileID: 0}
+  _controlDisplay: {fileID: 0}
+  _txtAgeInd: {fileID: 0}
+  _characterInfo: {fileID: 0}
+  _openTime: 1
+  _hardOpenTime: 0.15
+  _moveOutOfWayYDist: 1
+  _moveOutOfWaySpeed: 20
+  _movementClampVal: 1
+  _closeEnoughY: 0.02
+  _upperDisplayLocalPos: {x: 0, y: 0, z: 0}
+  _lowerDisplayLocalPos: {x: 0, y: 0, z: 0}
+  _upperControlDisplayLocalPos: {x: 0, y: 0, z: 0}
+  _lowerControlDisplayLocalPos: {x: 0, y: 0, z: 0}
+  _doSlowHide: 0
